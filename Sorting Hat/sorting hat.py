@@ -46,11 +46,3 @@ print("Gryffindor =", Gryffindor)
 print("Ravenclaw =", Ravenclaw)
 print("Hufflepuff =", Hufflepuff)
 print("Slytherin =", Slytherin)
- if Gryffindor > Ravenclaw and Gryffindor > Hufflepuff :
-   print("you should join Gryffindor")
-  elif Ravenclaw > Gryffindor and Ravenclaw > Hufflepuff :
-    print("you should join Ravenclaw")
-elif Hufflepuff > Ravenclaw and Hufflepuff > Gryffindor :
-  print("you should join Hufflepuff")
-else:
-  print("you should join Slytherin")
